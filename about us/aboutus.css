@@ -1,0 +1,126 @@
+body {
+  margin: 2% 0 0 0;
+  margin-top: 2%;
+}
+
+#text
+{
+  margin-top: 2%;
+  padding-left: 8%;
+  padding-right: 8%;
+  padding-top: 1%;
+}
+
+.aboutusimg {
+  width: 40%;
+  border-radius: 50%;
+}
+
+.navbar {
+  padding-left: 10%;
+  list-style-type: none;
+  overflow: hidden;
+  margin: 0;
+  padding-right: 10%;
+}
+
+.navitems, .logo {
+  float: right;
+  margin: 13px 5px 12px;
+}
+
+.navlink {
+  font-size: 18px;
+  font-weight: bold;
+  text-decoration: none;
+  color: black;
+  font-family: 'Open Sans', sans-serif;
+  padding: 11px 22px;
+}
+
+.navlink:hover, .active {
+  background-color: #E5888A;
+  color: white;
+  border-radius: 28px;
+}
+
+.logo {
+  display: block;
+  float: left;
+  font-size: 25px;
+  font-family: 'Mouse Memoirs', sans-serif;
+}
+
+.rightdiv
+{
+  padding-top: 2%;
+  float: right;
+  width: 50%;
+}
+.footer-div
+{
+  text-align: center;
+}
+
+.abouthead {
+  line-height: 1.2;
+  font-size: 45px;
+  font-family: 'Mukta', sans-serif;
+  padding-bottom: 10px;
+  border-bottom: 8px solid #E5888A;
+  width: 50%;
+}
+
+.about-text, .bold
+{
+  width: 70%;
+  font-size: 18px;
+  line-height: 2;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.bold
+{
+  margin-top: 40px;
+  font-weight: bold;
+}
+
+.phone-no
+{
+  margin-top: 50px;
+  font-size: 30px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+}
+
+#footer
+{
+  text-align: center;
+  background-color: #2B2D2F;
+  color: white;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  padding-bottom: 1%;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.sample
+{
+  margin-bottom: 2%;
+  width: 25%;
+  padding-top: 1%;
+  position: relative;
+  left: 37.5%;
+}
+
+.footerlink
+{
+  text-decoration: none;
+  color: #E5888A;
+}
+
+.footerlink:hover
+{
+  color: white;
+}
